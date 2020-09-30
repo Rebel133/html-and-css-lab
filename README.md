@@ -10,4 +10,4 @@
 * Flex Box: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 * Image Tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 * Fonts: https://developer.mozilla.org/en-US/docs/Web/CSS/font
-
+*color :https://coolors.co/
